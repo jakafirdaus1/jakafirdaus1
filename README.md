@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1>I'm Jaka!
+## Hi there 👋 I'm Jaka!
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
