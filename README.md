@@ -5,6 +5,7 @@
 
   - [Python Keylogger](https://github.com/jakafirdaus1/py-keylogger)
   - [Security Analyst - Phising Email](https://medium.com/@jakafirdaus1509/security-analyst-letsdefend-challenge-7d4ca922129b)
+  - [SIEM Home Lab](https://github.com/jakafirdaus1/homelab-elastic)
 
 <h2>📄 Certifications</h2>
 
